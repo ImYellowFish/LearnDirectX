@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SIH-D-331</Machine>
+    <WindowsUser>huangkun02</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>150ffa2d-4d81-4652-abf2-57265451e68a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=huangkun02</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\AppX</LayoutDir>
+    <RegisteredManifestChecksum>715A299DC2FD4AD10525A855AAF5EA69D3CE0DE53C3BD0862EE4FFE89A9E8D2B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>150ffa2d-4d81-4652-abf2-57265451e68a_1.0.0.0_x86__yppzs0rrtq8wj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>150ffa2d-4d81-4652-abf2-57265451e68a_yppzs0rrtq8wj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>150ffa2d-4d81-4652-abf2-57265451e68a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=huangkun02</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-08-20T14:17:36.729</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\LearnDirectx.exe">
+      <PackagePath>LearnDirectx.exe</PackagePath>
+      <Modified>2019-08-21T11:22:23.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\LearnDirectx.winmd">
+      <PackagePath>LearnDirectx.winmd</PackagePath>
+      <Modified>2019-08-20T14:17:35.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-05-21T07:47:39.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-21T07:47:39.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-21T07:47:39.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-21T07:47:39.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-21T07:47:39.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-21T07:47:39.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-21T07:47:39.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\Assets\Texture\WoodCrate.dds">
+      <PackagePath>Assets\Texture\WoodCrate.dds</PackagePath>
+      <Modified>2019-04-08T01:56:50.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\SamplePixelShader.cso">
+      <PackagePath>SamplePixelShader.cso</PackagePath>
+      <Modified>2019-08-20T14:17:31.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\SampleVertexShader.cso">
+      <PackagePath>SampleVertexShader.cso</PackagePath>
+      <Modified>2019-08-20T14:19:50.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\DirectXTK\Readme.txt">
+      <PackagePath>DirectXTK\Readme.txt</PackagePath>
+      <Modified>2019-08-20T12:48:00.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.17763.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2018-10-22T17:41:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\huangkun02\source\repos\LearnDirectx\LearnDirectx\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-08-20T14:17:36.677</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
